@@ -1,4 +1,4 @@
-# NEWS-CATEGORY
+# NEWS-CATEGORY( TEXT ANALYTICS)
 data source: https://www.kaggle.com/rmisra/news-category-dataset/home
 
 Task 1: Aggregate text data under “short_description” and “headline”; Use the aggregated text data to create two 
